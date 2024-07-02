@@ -37,4 +37,4 @@ create things, that people needs. As well I like to learn more and more to earn 
 <!--
 ![Snake animation](https://github.com/sandropanda21/sandropanda21/blob/output/github-contribution-grid-snake.svg) -->
 
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sandropanda21&bg_color=000000&color=80ffff&line=00ffff&point=008080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sandropanda21&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
