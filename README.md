@@ -5,8 +5,7 @@
 I am programer, I like solve problems and I like 
 create things, that people needs. As well I like to learn more and more to earn more experience in all area of my life/carrer. I hope that you like!!!
   <div> 
-    <a href="https://instagram.com/sandro_panda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+    <a href="https://instagram.com/sandro_panda/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
     <a href = "mailto:sandropanda0821@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/sandro-panda-front-end-developer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
@@ -35,4 +34,5 @@ create things, that people needs. As well I like to learn more and more to earn 
   <img align="center" alt="Sandro-Next" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge">
 </div>
 
-![Snake animation](https://github.com/sandropanda21/sandropanda21/blob/output/github-contribution-grid-snake.svg)
+<!--
+![Snake animation](https://github.com/sandropanda21/sandropanda21/blob/output/github-contribution-grid-snake.svg) -->
